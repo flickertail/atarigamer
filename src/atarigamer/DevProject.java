@@ -237,6 +237,7 @@ public class DevProject{
   }
 
   protected void addNewPlayfield(){
+	  DevPF dvp = new DevPF(this, "Temp Name");
   }
 
   private void createDP(){
