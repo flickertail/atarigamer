@@ -1,0 +1,3 @@
+0,0 ;Output Window Location
+111,0 ;Output Window Size
+739,149 ;Paint Tools Location
